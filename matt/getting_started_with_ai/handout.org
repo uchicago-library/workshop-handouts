@@ -21,10 +21,9 @@
 #+LATEX_HEADER: \usepackage{amssymb}
 #+LATEX_HEADER: \usepackage{nopageno}
 
-Welcome to the UChicago Library's first in our series of workshops on
-generative AI.  The purpose of this handout is to give you helpful
-links you can consult after today if you want to continue exploring
-what we discuss here.
+Welcome!  The purpose of this handout is to give you helpful links you
+can consult after today if you want to continue exploring what we
+discuss here.
 
 * Contact Info
 
